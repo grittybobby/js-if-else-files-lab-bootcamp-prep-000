@@ -1,6 +1,5 @@
 var name = "Susan";
-var height;
-  height = 70;
+var height = 70;
 
 
 // Don't worry about this
