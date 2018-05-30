@@ -11,5 +11,5 @@ if (name === "Susan") {
 }
 
 else {
-  console.log("Expected teh name to be Susan.")
+  console.log("Expected the name to be Susan.")
 }
